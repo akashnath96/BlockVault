@@ -4,6 +4,10 @@ A simple blockchain ledger built using HTML, CSS, and JavaScript.
 
 BlockVault demonstrates how blockchain blocks are connected using cryptographic hashes and how tampering with one block can invalidate the chain.
 
+## 📸 Demo
+
+![BlockVault Demo](blockvault-demo.png)
+
 ## 🚀 Features
 
 - Creates a Genesis Block
@@ -66,4 +70,5 @@ BlockVault/
 ├── index.html
 ├── style.css
 ├── script.js
+├── blockvault-demo.png
 └── README.md
